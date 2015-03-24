@@ -1,0 +1,34 @@
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "people_profile_pkey"
+DETAIL:  Key (id)=(1) already exists.
+select auth_user.id,         
+       auth_user.password,   
+       auth_user.last_login, 
+       auth_user.is_superuser,
+       auth_user.username,   
+       auth_user.first_name, 
+       auth_user.last_name,  
+       auth_user.email auth_user_email,      
+       auth_user.is_staff,   
+       auth_user.is_active,  
+       auth_user.date_joined,
+       people_profile.id people_profile_id,          
+       people_profile.user_id,     
+       people_profile.name,        
+       people_profile.organization,
+       people_profile.profile,     
+       people_profile.position,    
+       people_profile.voice,       
+       people_profile.fax,         
+       people_profile.delivery,    
+       people_profile.city,        
+       people_profile.area,        
+       people_profile.zipcode,     
+       people_profile.country,     
+       people_profile.email people_profile_email
+from   people_profile 
+join   auth_user 
+on     people_profile.user_id = auth_user.id
+order by auth_user.id
+(1, 'pbkdf2_sha256$10000$PbocJB2u2SzR$+MzG+EbQdQ25eRBTxEi1pWIOEUxh5qliF+wTswurGRw=', datetime.datetime(2015, 2, 25, 12, 24, 57, 737024, tzinfo=psycopg2.tz.FixedOffsetTimezone(offset=-300, name=None)), True, 'admin', 'John', 'Jediny', 'john.jediny@hq.doe.gov', True, True, datetime.datetime(2011, 6, 9, 16, 15, 27, tzinfo=psycopg2.tz.FixedOffsetTimezone(offset=-240, name=None)), 1, 1, 'John Jediny', '', '', '', '(202) 586-4790', '', '', '', '', '', None, 'John.Jediny@hq.doe.gov')

@@ -1,0 +1,6 @@
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "account_account_pkey"
+DETAIL:  Key (id)=(1) already exists.
+select id, user_id, timezone, language from account_account
+(1, 1, '', 'en')

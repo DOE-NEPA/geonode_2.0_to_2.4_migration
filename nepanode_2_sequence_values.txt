@@ -1,0 +1,288 @@
+account_account_max|account_account_id_seq
+65|66
+(1 row)
+account_accountdeletion_max|account_accountdeletion_id_seq
+|5
+(1 row)
+account_emailaddress_max|account_emailaddress_id_seq
+65|66
+(1 row)
+account_emailconfirmation_max|account_emailconfirmation_id_seq
+64|65
+(1 row)
+account_signupcode_max|account_signupcode_id_seq
+1|2
+(1 row)
+account_signupcoderesult_max|account_signupcoderesult_id_seq
+|5
+(1 row)
+actstream_action_max|actstream_action_id_seq
+968|969
+(1 row)
+actstream_follow_max|actstream_follow_id_seq
+|5
+(1 row)
+agon_ratings_overallrating_max|agon_ratings_overallrating_id_seq
+6|7
+(1 row)
+agon_ratings_rating_max|agon_ratings_rating_id_seq
+8|9
+(1 row)
+announcements_announcement_max|announcements_announcement_id_seq
+3|4
+(1 row)
+announcements_dismissal_max|announcements_dismissal_id_seq
+|5
+(1 row)
+auth_group_max|auth_group_id_seq
+4|5
+(1 row)
+auth_group_permissions_max|auth_group_permissions_id_seq
+795|796
+(1 row)
+auth_permission_max|auth_permission_id_seq
+10190|10191
+(1 row)
+avatar_avatar_max|avatar_avatar_id_seq
+4|5
+(1 row)
+base_contactrole_max|base_contactrole_id_seq
+2831|2832
+(1 row)
+base_license_max|base_license_id_seq
+7|8
+(1 row)
+base_link_max|base_link_id_seq
+9931|9932
+(1 row)
+base_region_max|base_region_id_seq
+258|259
+(1 row)
+base_resourcebase_max|base_resourcebase_id_seq
+710|711
+(1 row)
+base_resourcebase_regions_max|base_resourcebase_regions_id_seq
+|5
+(1 row)
+base_restrictioncodetype_max|base_restrictioncodetype_id_seq
+8|9
+(1 row)
+base_spatialrepresentationtype_max|base_spatialrepresentationtype_id_seq
+6|7
+(1 row)
+base_topiccategory_max|base_topiccategory_id_seq
+19|20
+(1 row)
+dialogos_comment_max|dialogos_comment_id_seq
+|5
+(1 row)
+django_admin_log_max|django_admin_log_id_seq
+2331|2332
+(1 row)
+django_comment_flags_max|django_comment_flags_id_seq
+|5
+(1 row)
+django_comments_max|django_comments_id_seq
+|5
+(1 row)
+django_content_type_max|django_content_type_id_seq
+10060|10061
+(1 row)
+django_site_max|django_site_id_seq
+1|2
+(1 row)
+groups_groupinvitation_max|groups_groupinvitation_id_seq
+|5
+(1 row)
+groups_groupmember_max|groups_groupmember_id_seq
+|5
+(1 row)
+groups_groupprofile_max|groups_groupprofile_id_seq
+|5
+(1 row)
+guardian_groupobjectpermission_max|guardian_groupobjectpermission_id_seq
+1|2
+(1 row)
+guardian_userobjectpermission_max|guardian_userobjectpermission_id_seq
+7|8
+(1 row)
+helpdesk_attachment_max|helpdesk_attachment_id_seq
+10|11
+(1 row)
+helpdesk_customfield_max|helpdesk_customfield_id_seq
+15|16
+(1 row)
+helpdesk_emailtemplate_max|helpdesk_emailtemplate_id_seq
+16|17
+(1 row)
+helpdesk_escalationexclusion_max|helpdesk_escalationexclusion_id_seq
+|5
+(1 row)
+helpdesk_escalationexclusion_queues_max|helpdesk_escalationexclusion_queues_id_seq
+|5
+(1 row)
+helpdesk_followup_max|helpdesk_followup_id_seq
+30|31
+(1 row)
+helpdesk_ignoreemail_max|helpdesk_ignoreemail_id_seq
+|5
+(1 row)
+helpdesk_ignoreemail_queues_max|helpdesk_ignoreemail_queues_id_seq
+|5
+(1 row)
+helpdesk_kbcategory_max|helpdesk_kbcategory_id_seq
+|5
+(1 row)
+helpdesk_kbitem_max|helpdesk_kbitem_id_seq
+|5
+(1 row)
+helpdesk_presetreply_max|helpdesk_presetreply_id_seq
+1|2
+(1 row)
+helpdesk_presetreply_queues_max|helpdesk_presetreply_queues_id_seq
+3|4
+(1 row)
+helpdesk_queue_max|helpdesk_queue_id_seq
+4|5
+(1 row)
+helpdesk_savedsearch_max|helpdesk_savedsearch_id_seq
+|5
+(1 row)
+helpdesk_ticket_max|helpdesk_ticket_id_seq
+16|17
+(1 row)
+helpdesk_ticketcc_max|helpdesk_ticketcc_id_seq
+2|3
+(1 row)
+helpdesk_ticketchange_max|helpdesk_ticketchange_id_seq
+1|2
+(1 row)
+helpdesk_ticketcustomfieldvalue_max|helpdesk_ticketcustomfieldvalue_id_seq
+60|61
+(1 row)
+helpdesk_ticketdependency_max|helpdesk_ticketdependency_id_seq
+|5
+(1 row)
+helpdesk_usersettings_max|helpdesk_usersettings_id_seq
+5|6
+(1 row)
+layers_attribute_max|layers_attribute_id_seq
+11972|11973
+(1 row)
+layers_layerfile_max|layers_layerfile_id_seq
+41|42
+(1 row)
+layers_layer_styles_max|layers_layer_styles_id_seq
+21729|21730
+(1 row)
+layers_style_max|layers_style_id_seq
+568|569
+(1 row)
+layers_uploadsession_max|layers_uploadsession_id_seq
+10|11
+(1 row)
+maps_maplayer_max|maps_maplayer_id_seq
+23400|23401
+(1 row)
+maps_mapsnapshot_max|maps_mapsnapshot_id_seq
+|5
+(1 row)
+notification_noticequeuebatch_max|notification_noticequeuebatch_id_seq
+|5
+(1 row)
+notification_noticesetting_max|notification_noticesetting_id_seq
+19|20
+(1 row)
+notification_noticetype_max|notification_noticetype_id_seq
+19|20
+(1 row)
+people_profile_max|people_profile_id_seq
+65|66
+(1 row)
+people_profile_groups_max|people_profile_groups_id_seq
+12|13
+(1 row)
+people_profile_user_permissions_max|people_profile_user_permissions_id_seq
+|5
+(1 row)
+services_servicelayer_max|services_servicelayer_id_seq
+|5
+(1 row)
+services_serviceprofilerole_max|services_serviceprofilerole_id_seq
+|5
+(1 row)
+services_webserviceharvestlayersjob_max|services_webserviceharvestlayersjob_id_seq
+|5
+(1 row)
+services_webserviceregistrationjob_max|services_webserviceregistrationjob_id_seq
+|5
+(1 row)
+social_auth_association_max|social_auth_association_id_seq
+|5
+(1 row)
+social_auth_code_max|social_auth_code_id_seq
+|5
+(1 row)
+social_auth_nonce_max|social_auth_nonce_id_seq
+|5
+(1 row)
+social_auth_usersocialauth_max|social_auth_usersocialauth_id_seq
+|5
+(1 row)
+south_migrationhistory_max|south_migrationhistory_id_seq
+13|14
+(1 row)
+tagging_tag_max|tagging_tag_id_seq
+|5
+(1 row)
+tagging_taggeditem_max|tagging_taggeditem_id_seq
+|5
+(1 row)
+taggit_tag_max|taggit_tag_id_seq
+417|418
+(1 row)
+taggit_taggeditem_max|taggit_taggeditem_id_seq
+2457|2458
+(1 row)
+tastypie_apiaccess_max|tastypie_apiaccess_id_seq
+|5
+(1 row)
+tastypie_apikey_max|tastypie_apikey_id_seq
+|5
+(1 row)
+upload_upload_max|upload_upload_id_seq
+|5
+(1 row)
+upload_uploadfile_max|upload_uploadfile_id_seq
+|5
+(1 row)
+user_messages_message_max|user_messages_message_id_seq
+|5
+(1 row)
+user_messages_thread_max|user_messages_thread_id_seq
+|5
+(1 row)
+user_messages_userthread_max|user_messages_userthread_id_seq
+|5
+(1 row)
+zinnia_category_max|zinnia_category_id_seq
+|5
+(1 row)
+zinnia_entry_max|zinnia_entry_id_seq
+|5
+(1 row)
+zinnia_entry_authors_max|zinnia_entry_authors_id_seq
+|5
+(1 row)
+zinnia_entry_categories_max|zinnia_entry_categories_id_seq
+|5
+(1 row)
+zinnia_entry_related_max|zinnia_entry_related_id_seq
+|5
+(1 row)
+zinnia_entry_sites_max|zinnia_entry_sites_id_seq
+|5
+(1 row)
+zinnia_tinymce_filemodel_max|zinnia_tinymce_filemodel_id_seq
+|5
+(1 row)

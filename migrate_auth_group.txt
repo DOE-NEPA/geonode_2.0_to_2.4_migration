@@ -1,0 +1,6 @@
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_pkey"
+DETAIL:  Key (id)=(1) already exists.
+select id, name from auth_group
+(1, 'Administrators')

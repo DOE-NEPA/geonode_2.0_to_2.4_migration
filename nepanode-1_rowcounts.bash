@@ -1,0 +1,1 @@
+psql -h 54.236.235.110 -qtA geonode2 geonode < nepanode-1_rowcounts.sql > nepanode-1_rowcounts.txt

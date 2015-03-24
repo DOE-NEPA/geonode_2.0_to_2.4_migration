@@ -1,0 +1,162 @@
+
+<class 'psycopg2.IntegrityError'>
+insert or update on table "auth_permission" violates foreign key constraint "content_type_id_refs_id_d043b34a"
+DETAIL:  Key (content_type_id)=(10011) is not present in table "django_content_type".
+select id, name, content_type_id, codename from auth_permission
+(31, 'Can add migration history', 11, 'add_migrationhistory')
+
+<class 'psycopg2.IntegrityError'>
+insert or update on table "auth_permission" violates foreign key constraint "content_type_id_refs_id_d043b34a"
+DETAIL:  Key (content_type_id)=(10011) is not present in table "django_content_type".
+select id, name, content_type_id, codename from auth_permission
+(32, 'Can change migration history', 11, 'change_migrationhistory')
+
+<class 'psycopg2.IntegrityError'>
+insert or update on table "auth_permission" violates foreign key constraint "content_type_id_refs_id_d043b34a"
+DETAIL:  Key (content_type_id)=(10011) is not present in table "django_content_type".
+select id, name, content_type_id, codename from auth_permission
+(33, 'Can delete migration history', 11, 'delete_migrationhistory')
+
+<class 'psycopg2.IntegrityError'>
+insert or update on table "auth_permission" violates foreign key constraint "content_type_id_refs_id_d043b34a"
+DETAIL:  Key (content_type_id)=(10022) is not present in table "django_content_type".
+select id, name, content_type_id, codename from auth_permission
+(64, 'Can add notice type', 22, 'add_noticetype')
+
+<class 'psycopg2.IntegrityError'>
+insert or update on table "auth_permission" violates foreign key constraint "content_type_id_refs_id_d043b34a"
+DETAIL:  Key (content_type_id)=(10022) is not present in table "django_content_type".
+select id, name, content_type_id, codename from auth_permission
+(65, 'Can change notice type', 22, 'change_noticetype')
+
+<class 'psycopg2.IntegrityError'>
+insert or update on table "auth_permission" violates foreign key constraint "content_type_id_refs_id_d043b34a"
+DETAIL:  Key (content_type_id)=(10022) is not present in table "django_content_type".
+select id, name, content_type_id, codename from auth_permission
+(66, 'Can delete notice type', 22, 'delete_noticetype')
+
+<class 'psycopg2.IntegrityError'>
+insert or update on table "auth_permission" violates foreign key constraint "content_type_id_refs_id_d043b34a"
+DETAIL:  Key (content_type_id)=(10023) is not present in table "django_content_type".
+select id, name, content_type_id, codename from auth_permission
+(67, 'Can add notice setting', 23, 'add_noticesetting')
+
+<class 'psycopg2.IntegrityError'>
+insert or update on table "auth_permission" violates foreign key constraint "content_type_id_refs_id_d043b34a"
+DETAIL:  Key (content_type_id)=(10023) is not present in table "django_content_type".
+select id, name, content_type_id, codename from auth_permission
+(68, 'Can change notice setting', 23, 'change_noticesetting')
+
+<class 'psycopg2.IntegrityError'>
+insert or update on table "auth_permission" violates foreign key constraint "content_type_id_refs_id_d043b34a"
+DETAIL:  Key (content_type_id)=(10023) is not present in table "django_content_type".
+select id, name, content_type_id, codename from auth_permission
+(69, 'Can delete notice setting', 23, 'delete_noticesetting')
+
+<class 'psycopg2.IntegrityError'>
+insert or update on table "auth_permission" violates foreign key constraint "content_type_id_refs_id_d043b34a"
+DETAIL:  Key (content_type_id)=(10024) is not present in table "django_content_type".
+select id, name, content_type_id, codename from auth_permission
+(70, 'Can add notice queue batch', 24, 'add_noticequeuebatch')
+
+<class 'psycopg2.IntegrityError'>
+insert or update on table "auth_permission" violates foreign key constraint "content_type_id_refs_id_d043b34a"
+DETAIL:  Key (content_type_id)=(10024) is not present in table "django_content_type".
+select id, name, content_type_id, codename from auth_permission
+(71, 'Can change notice queue batch', 24, 'change_noticequeuebatch')
+
+<class 'psycopg2.IntegrityError'>
+insert or update on table "auth_permission" violates foreign key constraint "content_type_id_refs_id_d043b34a"
+DETAIL:  Key (content_type_id)=(10024) is not present in table "django_content_type".
+select id, name, content_type_id, codename from auth_permission
+(72, 'Can delete notice queue batch', 24, 'delete_noticequeuebatch')
+
+<class 'psycopg2.IntegrityError'>
+insert or update on table "auth_permission" violates foreign key constraint "content_type_id_refs_id_d043b34a"
+DETAIL:  Key (content_type_id)=(10055) is not present in table "django_content_type".
+select id, name, content_type_id, codename from auth_permission
+(170, 'Can add tag', 55, 'add_tag')
+
+<class 'psycopg2.IntegrityError'>
+insert or update on table "auth_permission" violates foreign key constraint "content_type_id_refs_id_d043b34a"
+DETAIL:  Key (content_type_id)=(10055) is not present in table "django_content_type".
+select id, name, content_type_id, codename from auth_permission
+(171, 'Can change tag', 55, 'change_tag')
+
+<class 'psycopg2.IntegrityError'>
+insert or update on table "auth_permission" violates foreign key constraint "content_type_id_refs_id_d043b34a"
+DETAIL:  Key (content_type_id)=(10055) is not present in table "django_content_type".
+select id, name, content_type_id, codename from auth_permission
+(172, 'Can delete tag', 55, 'delete_tag')
+
+<class 'psycopg2.IntegrityError'>
+insert or update on table "auth_permission" violates foreign key constraint "content_type_id_refs_id_d043b34a"
+DETAIL:  Key (content_type_id)=(10056) is not present in table "django_content_type".
+select id, name, content_type_id, codename from auth_permission
+(173, 'Can add tagged item', 56, 'add_taggeditem')
+
+<class 'psycopg2.IntegrityError'>
+insert or update on table "auth_permission" violates foreign key constraint "content_type_id_refs_id_d043b34a"
+DETAIL:  Key (content_type_id)=(10056) is not present in table "django_content_type".
+select id, name, content_type_id, codename from auth_permission
+(174, 'Can change tagged item', 56, 'change_taggeditem')
+
+<class 'psycopg2.IntegrityError'>
+insert or update on table "auth_permission" violates foreign key constraint "content_type_id_refs_id_d043b34a"
+DETAIL:  Key (content_type_id)=(10056) is not present in table "django_content_type".
+select id, name, content_type_id, codename from auth_permission
+(175, 'Can delete tagged item', 56, 'delete_taggeditem')
+
+<class 'psycopg2.IntegrityError'>
+insert or update on table "auth_permission" violates foreign key constraint "content_type_id_refs_id_d043b34a"
+DETAIL:  Key (content_type_id)=(10057) is not present in table "django_content_type".
+select id, name, content_type_id, codename from auth_permission
+(176, 'Can change status', 57, 'can_change_status')
+
+<class 'psycopg2.IntegrityError'>
+insert or update on table "auth_permission" violates foreign key constraint "content_type_id_refs_id_d043b34a"
+DETAIL:  Key (content_type_id)=(10057) is not present in table "django_content_type".
+select id, name, content_type_id, codename from auth_permission
+(177, 'Can add entry', 57, 'add_entry')
+
+<class 'psycopg2.IntegrityError'>
+insert or update on table "auth_permission" violates foreign key constraint "content_type_id_refs_id_d043b34a"
+DETAIL:  Key (content_type_id)=(10057) is not present in table "django_content_type".
+select id, name, content_type_id, codename from auth_permission
+(178, 'Can change entry', 57, 'change_entry')
+
+<class 'psycopg2.IntegrityError'>
+insert or update on table "auth_permission" violates foreign key constraint "content_type_id_refs_id_d043b34a"
+DETAIL:  Key (content_type_id)=(10057) is not present in table "django_content_type".
+select id, name, content_type_id, codename from auth_permission
+(179, 'Can delete entry', 57, 'delete_entry')
+
+<class 'psycopg2.IntegrityError'>
+insert or update on table "auth_permission" violates foreign key constraint "content_type_id_refs_id_d043b34a"
+DETAIL:  Key (content_type_id)=(10057) is not present in table "django_content_type".
+select id, name, content_type_id, codename from auth_permission
+(180, 'Can view all entries', 57, 'can_view_all')
+
+<class 'psycopg2.IntegrityError'>
+insert or update on table "auth_permission" violates foreign key constraint "content_type_id_refs_id_d043b34a"
+DETAIL:  Key (content_type_id)=(10057) is not present in table "django_content_type".
+select id, name, content_type_id, codename from auth_permission
+(181, 'Can change author(s)', 57, 'can_change_author')
+
+<class 'psycopg2.IntegrityError'>
+insert or update on table "auth_permission" violates foreign key constraint "content_type_id_refs_id_d043b34a"
+DETAIL:  Key (content_type_id)=(10058) is not present in table "django_content_type".
+select id, name, content_type_id, codename from auth_permission
+(185, 'Can add category', 58, 'add_category')
+
+<class 'psycopg2.IntegrityError'>
+insert or update on table "auth_permission" violates foreign key constraint "content_type_id_refs_id_d043b34a"
+DETAIL:  Key (content_type_id)=(10058) is not present in table "django_content_type".
+select id, name, content_type_id, codename from auth_permission
+(186, 'Can change category', 58, 'change_category')
+
+<class 'psycopg2.IntegrityError'>
+insert or update on table "auth_permission" violates foreign key constraint "content_type_id_refs_id_d043b34a"
+DETAIL:  Key (content_type_id)=(10058) is not present in table "django_content_type".
+select id, name, content_type_id, codename from auth_permission
+(187, 'Can delete category', 58, 'delete_category')

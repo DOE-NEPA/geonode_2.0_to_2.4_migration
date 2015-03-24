@@ -1,0 +1,18 @@
+select resourcebase_ptr_id 
+from layers_layer l 
+where not exists (
+select layer_id 
+from layers_attribute a 
+where a.layer_id = l.resourcebase_ptr_id) 
+order by 1
+
+244
+321
+
+select layer_id 
+from   layers_attribute a 
+where not exists (
+select resourcebase_ptr_id 
+from   layers_layer l 
+where  l.resourcebase_ptr_id = a.layer_id) 
+order by 1

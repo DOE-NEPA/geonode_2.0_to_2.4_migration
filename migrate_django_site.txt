@@ -1,0 +1,6 @@
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "django_site_pkey"
+DETAIL:  Key (id)=(1) already exists.
+select id, domain, name from django_site
+(1, 'nepanode.anl.gov', 'NEPAnode')

@@ -1,0 +1,6 @@
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "account_emailaddress_pkey"
+DETAIL:  Key (id)=(1) already exists.
+select id, user_id, email, verified, "primary" from account_emailaddress
+(1, 1, 'bobby@bob.com', False, True)

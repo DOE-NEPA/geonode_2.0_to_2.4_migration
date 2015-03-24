@@ -1,0 +1,313 @@
+Tables in src not in dst:
+-------------------------
+auth_user
+auth_user_groups
+auth_user_user_permissions
+base_thumbnail
+captcha_captchastore
+django_comment_flags
+django_comments
+notification_noticequeuebatch
+notification_noticesetting
+notification_noticetype
+people_role
+people_role_permissions
+security_genericobjectrolemapping
+security_objectrole
+security_objectrole_permissions
+security_userobjectrolemapping
+south_migrationhistory
+tagging_tag
+tagging_taggeditem
+taggit_templatetags_amodel
+zinnia_category
+zinnia_entry
+zinnia_entry_authors
+zinnia_entry_categories
+zinnia_entry_related
+zinnia_entry_sites
+26
+
+Tables in both:
+---------------
+account_account
+account_accountdeletion
+account_emailaddress
+account_emailconfirmation
+account_signupcode
+account_signupcoderesult
+actstream_action
+actstream_follow
+agon_ratings_overallrating
+agon_ratings_rating
+announcements_announcement
+announcements_dismissal
+auth_group
+auth_group_permissions
+auth_permission
+avatar_avatar
+base_contactrole
+base_link
+base_region
+base_resourcebase
+base_resourcebase_regions
+base_restrictioncodetype
+base_spatialrepresentationtype
+base_topiccategory
+dialogos_comment
+django_admin_log
+django_content_type
+django_session
+django_site
+documents_document
+layers_attribute
+layers_layer
+layers_layer_styles
+layers_style
+maps_map
+maps_maplayer
+people_profile
+taggit_tag
+taggit_taggeditem
+upload_upload
+upload_uploadfile
+user_messages_message
+user_messages_thread
+user_messages_userthread
+44
+
+Tables in dst not in src:
+-------------------------
+account_signupcodeextended
+base_license
+celery_taskmeta
+celery_tasksetmeta
+djcelery_crontabschedule
+djcelery_intervalschedule
+djcelery_periodictask
+djcelery_periodictasks
+djcelery_taskstate
+djcelery_workerstate
+groups_groupinvitation
+groups_groupmember
+groups_groupprofile
+guardian_groupobjectpermission
+guardian_userobjectpermission
+layers_layerfile
+layers_uploadsession
+maps_mapsnapshot
+people_profile_groups
+people_profile_user_permissions
+services_service
+services_servicelayer
+services_serviceprofilerole
+services_webserviceharvestlayersjob
+services_webserviceregistrationjob
+tastypie_apiaccess
+tastypie_apikey
+27
+
+Tables in FK to PK order:
+-------------------------
+['account_account', 'people_profile']
+['account_accountdeletion', 'people_profile']
+['account_emailaddress', 'people_profile']
+['account_emailconfirmation', 'account_emailaddress', 'people_profile']
+['account_signupcode', 'people_profile']
+['account_signupcoderesult', 'people_profile']
+['account_signupcoderesult', 'account_signupcode', 'people_profile']
+['actstream_action', 'django_content_type']
+['actstream_follow', 'django_content_type']
+['actstream_follow', 'people_profile']
+['agon_ratings_overallrating', 'django_content_type']
+['agon_ratings_rating', 'django_content_type']
+['agon_ratings_rating', 'people_profile']
+['agon_ratings_rating', 'agon_ratings_overallrating', 'django_content_type']
+['announcements_announcement', 'people_profile']
+['announcements_dismissal', 'people_profile']
+['announcements_dismissal', 'announcements_announcement', 'people_profile']
+['auth_group_permissions', 'auth_group']
+['auth_group_permissions', 'auth_permission', 'django_content_type']
+['auth_permission', 'django_content_type']
+['avatar_avatar', 'people_profile']
+['base_contactrole', 'people_profile']
+['base_contactrole', 'base_resourcebase', 'django_content_type']
+['base_link', 'base_resourcebase', 'django_content_type']
+['base_region', 'base_region']
+['base_resourcebase', 'django_content_type']
+['base_resourcebase', 'people_profile']
+['base_resourcebase', 'base_restrictioncodetype']
+['base_resourcebase', 'base_topiccategory']
+['base_resourcebase', 'base_spatialrepresentationtype']
+['base_resourcebase', 'base_license']
+['base_resourcebase_regions', 'base_region']
+['base_resourcebase_regions', 'base_resourcebase', 'django_content_type']
+['dialogos_comment', 'django_content_type']
+['dialogos_comment', 'people_profile']
+['django_admin_log', 'django_content_type']
+['django_admin_log', 'people_profile']
+['documents_document', 'django_content_type']
+['documents_document', 'base_resourcebase', 'django_content_type']
+['layers_attribute', 'layers_layer', 'services_service', 'base_resourcebase', 'django_content_type']
+['layers_layer', 'services_service', 'base_resourcebase', 'django_content_type']
+['layers_layer', 'layers_uploadsession', 'people_profile']
+['layers_layer', 'base_resourcebase', 'django_content_type']
+['layers_layer', 'layers_style']
+['layers_layer_styles', 'layers_style']
+['layers_layer_styles', 'layers_layer', 'services_service', 'base_resourcebase', 'django_content_type']
+['maps_map', 'base_resourcebase', 'django_content_type']
+['maps_maplayer', 'maps_map', 'base_resourcebase', 'django_content_type']
+['taggit_taggeditem', 'django_content_type']
+['taggit_taggeditem', 'taggit_tag']
+['upload_upload', 'people_profile']
+['upload_upload', 'layers_layer', 'services_service', 'base_resourcebase', 'django_content_type']
+['upload_uploadfile', 'upload_upload', 'people_profile']
+['user_messages_message', 'people_profile']
+['user_messages_message', 'user_messages_thread']
+['user_messages_userthread', 'people_profile']
+['user_messages_userthread', 'user_messages_thread']
+['base_contactrole', 'people_profile']
+['base_contactrole', 'base_restrictioncodetype']
+['base_contactrole', 'base_topiccategory']
+['base_contactrole', 'base_spatialrepresentationtype']
+['base_contactrole', 'base_license']
+['base_link', 'people_profile']
+['base_link', 'base_restrictioncodetype']
+['base_link', 'base_topiccategory']
+['base_link', 'base_spatialrepresentationtype']
+['base_link', 'base_license']
+['base_resourcebase_regions', 'people_profile']
+['base_resourcebase_regions', 'base_restrictioncodetype']
+['base_resourcebase_regions', 'base_topiccategory']
+['base_resourcebase_regions', 'base_spatialrepresentationtype']
+['base_resourcebase_regions', 'base_license']
+['documents_document', 'people_profile']
+['documents_document', 'base_restrictioncodetype']
+['documents_document', 'base_topiccategory']
+['documents_document', 'base_spatialrepresentationtype']
+['documents_document', 'base_license']
+['layers_attribute', 'layers_uploadsession', 'people_profile']
+['layers_attribute', 'base_resourcebase', 'django_content_type']
+['layers_attribute', 'layers_style']
+['layers_layer', 'people_profile']
+['layers_layer', 'base_restrictioncodetype']
+['layers_layer', 'base_topiccategory']
+['layers_layer', 'base_spatialrepresentationtype']
+['layers_layer', 'base_license']
+['layers_layer_styles', 'layers_uploadsession', 'people_profile']
+['layers_layer_styles', 'base_resourcebase', 'django_content_type']
+['layers_layer_styles', 'layers_style']
+['maps_map', 'people_profile']
+['maps_map', 'base_restrictioncodetype']
+['maps_map', 'base_topiccategory']
+['maps_map', 'base_spatialrepresentationtype']
+['maps_map', 'base_license']
+['upload_upload', 'layers_uploadsession', 'people_profile']
+['upload_upload', 'base_resourcebase', 'django_content_type']
+['upload_upload', 'layers_style']
+['upload_uploadfile', 'layers_layer', 'services_service', 'base_resourcebase', 'django_content_type']
+['layers_attribute', 'people_profile']
+['layers_attribute', 'base_restrictioncodetype']
+['layers_attribute', 'base_topiccategory']
+['layers_attribute', 'base_spatialrepresentationtype']
+['layers_attribute', 'base_license']
+['layers_layer_styles', 'people_profile']
+['layers_layer_styles', 'base_restrictioncodetype']
+['layers_layer_styles', 'base_topiccategory']
+['layers_layer_styles', 'base_spatialrepresentationtype']
+['layers_layer_styles', 'base_license']
+['upload_upload', 'people_profile']
+['upload_upload', 'base_restrictioncodetype']
+['upload_upload', 'base_topiccategory']
+['upload_upload', 'base_spatialrepresentationtype']
+['upload_upload', 'base_license']
+['upload_uploadfile', 'layers_uploadsession', 'people_profile']
+['upload_uploadfile', 'base_resourcebase', 'django_content_type']
+['upload_uploadfile', 'layers_style']
+['upload_uploadfile', 'people_profile']
+['upload_uploadfile', 'base_restrictioncodetype']
+['upload_uploadfile', 'base_topiccategory']
+['upload_uploadfile', 'base_spatialrepresentationtype']
+['upload_uploadfile', 'base_license']
+['layers_layer', 'services_service', 'people_profile']
+['layers_layer', 'services_service', 'base_restrictioncodetype']
+['layers_layer', 'services_service', 'base_topiccategory']
+['layers_layer', 'services_service', 'base_spatialrepresentationtype']
+['layers_layer', 'services_service', 'base_license']
+['maps_maplayer', 'maps_map', 'people_profile']
+['maps_maplayer', 'maps_map', 'base_restrictioncodetype']
+['maps_maplayer', 'maps_map', 'base_topiccategory']
+['maps_maplayer', 'maps_map', 'base_spatialrepresentationtype']
+['maps_maplayer', 'maps_map', 'base_license']
+['layers_attribute', 'layers_layer', 'services_service', 'people_profile']
+['layers_attribute', 'layers_layer', 'services_service', 'base_restrictioncodetype']
+['layers_attribute', 'layers_layer', 'services_service', 'base_topiccategory']
+['layers_attribute', 'layers_layer', 'services_service', 'base_spatialrepresentationtype']
+['layers_attribute', 'layers_layer', 'services_service', 'base_license']
+['layers_layer_styles', 'layers_layer', 'services_service', 'people_profile']
+['layers_layer_styles', 'layers_layer', 'services_service', 'base_restrictioncodetype']
+['layers_layer_styles', 'layers_layer', 'services_service', 'base_topiccategory']
+['layers_layer_styles', 'layers_layer', 'services_service', 'base_spatialrepresentationtype']
+['layers_layer_styles', 'layers_layer', 'services_service', 'base_license']
+['upload_upload', 'layers_layer', 'services_service', 'people_profile']
+['upload_upload', 'layers_layer', 'services_service', 'base_restrictioncodetype']
+['upload_upload', 'layers_layer', 'services_service', 'base_topiccategory']
+['upload_upload', 'layers_layer', 'services_service', 'base_spatialrepresentationtype']
+['upload_upload', 'layers_layer', 'services_service', 'base_license']
+['upload_uploadfile', 'layers_layer', 'services_service', 'people_profile']
+['upload_uploadfile', 'layers_layer', 'services_service', 'base_restrictioncodetype']
+['upload_uploadfile', 'layers_layer', 'services_service', 'base_topiccategory']
+['upload_uploadfile', 'layers_layer', 'services_service', 'base_spatialrepresentationtype']
+['upload_uploadfile', 'layers_layer', 'services_service', 'base_license']
+150
+
+Tables in dependency order:
+---------------------------
+django_content_type
+base_resourcebase
+people_profile
+base_restrictioncodetype
+base_topiccategory
+base_spatialrepresentationtype
+base_license
+services_service
+account_emailaddress
+account_signupcode
+agon_ratings_overallrating
+announcements_announcement
+auth_group
+auth_permission
+base_region
+layers_layer
+layers_uploadsession
+layers_style
+maps_map
+taggit_tag
+upload_upload
+user_messages_thread
+account_account
+account_accountdeletion
+account_emailconfirmation
+account_signupcoderesult
+actstream_action
+actstream_follow
+agon_ratings_rating
+announcements_dismissal
+auth_group_permissions
+avatar_avatar
+base_contactrole
+base_link
+base_resourcebase_regions
+dialogos_comment
+django_admin_log
+documents_document
+layers_attribute
+layers_layer_styles
+maps_maplayer
+taggit_taggeditem
+upload_uploadfile
+user_messages_message
+user_messages_userthread
+django_session
+django_site
+47

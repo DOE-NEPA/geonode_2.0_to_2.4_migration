@@ -1,0 +1,28 @@
+
+<class 'psycopg2.ProgrammingError'>
+relation "notification_noticetype" does not exist
+LINE 1: insert into notification_noticetype(id, label, display, desc...
+                    ^
+select id, label, display, description, "default" from notification_noticetype
+(1, 'user_follow', 'User following you', 'another user has started following you', 2)
+
+<class 'psycopg2.ProgrammingError'>
+relation "notification_noticetype" does not exist
+LINE 1: insert into notification_noticetype(id, label, display, desc...
+                    ^
+select id, label, display, description, "default" from notification_noticetype
+(2, 'map_created', 'Map Created', 'A Map was created', 2)
+
+<class 'psycopg2.ProgrammingError'>
+relation "notification_noticetype" does not exist
+LINE 1: insert into notification_noticetype(id, label, display, desc...
+                    ^
+select id, label, display, description, "default" from notification_noticetype
+(3, 'map_comment', 'Comment on Map', 'A map was commented on', 2)
+
+<class 'psycopg2.ProgrammingError'>
+relation "notification_noticetype" does not exist
+LINE 1: insert into notification_noticetype(id, label, display, desc...
+                    ^
+select id, label, display, description, "default" from notification_noticetype
+(4, 'map_rated', 'Rating for Map', 'A rating was given to a map', 2)

@@ -1,0 +1,101 @@
+NEPAnode 1 to NEPAnode2 migration 2015-03-05 13:44
+
+x (1 UNDERSTANDABLE DUPLICATE) ./migrate_people_profile_modified.py > migrate_people_profile.txt && cat migrate_people_profile.txt
+
+x FIXED 1 DUP ./migrate_django_content_type_modified.py > migrate_django_content_type.txt && cat migrate_django_content_type.txt
+
+x OK ./migrate_base_resourcebase_modified.py > migrate_base_resourcebase.txt && cat migrate_base_resourcebase.txt
+
+x SAME - NO NEED TO MIGRATE ./migrate_base_restrictioncodetype.py > migrate_base_restrictioncodetype.txt && cat migrate_base_restrictioncodetype.txt
+
+x SAME - NO NEED TO MIGRATE ./migrate_base_topiccategory.py > migrate_base_topiccategory.txt && cat migrate_base_topiccategory.txt
+
+x SAME - NO NEED TO MIGRATE ./migrate_base_spatialrepresentationtype.py > migrate_base_spatialrepresentationtype.txt && cat migrate_base_spatialrepresentationtype.txt
+
+x NO SUCH FILE OR DIRECTORY ./migrate_base_license.py > migrate_base_license.txt && cat migrate_base_license.txt
+
+x NO SUCH FILE OR DIRECTORY ./migrate_services_service.py > migrate_services_service.txt && cat migrate_services_service.txt
+
+x OK (1 UNDERSTANDABLE DUPLICATE) ./migrate_account_account.py > migrate_account_account.txt && cat migrate_account_account.txt
+
+x OK (1 UNDERSTANABLE DUPLICATES) ./migrate_account_emailaddress_modified.py > migrate_account_emailaddress.txt && cat migrate_account_emailaddress.txt
+
+x OK ./migrate_account_signupcode.py > migrate_account_signupcode.txt && cat migrate_account_signupcode.txt
+
+x OK ./migrate_agon_ratings_overallrating_modified.py > migrate_agon_ratings_overallrating.txt && cat migrate_agon_ratings_overallrating.txt
+
+x OK ./migrate_announcements_announcement_modified.py > migrate_announcements_announcement.txt && cat migrate_announcements_announcement.txt
+
+x OK (1 UNDERSTANDABLE DUPLICATE) ./migrate_auth_group.py > migrate_auth_group.txt && cat migrate_auth_group.txt
+
+x DON'T (AFTER PATCHING DJANGO CONTENT TYPE) ./migrate_auth_permission_modified.py > migrate_auth_permission.txt && cat migrate_auth_permission.txt
+
+x OK ./migrate_base_region.py > migrate_base_region.txt && cat migrate_base_region.txt
+
+x OK ./migrate_layers_style.py > migrate_layers_style.txt && cat migrate_layers_style.txt
+
+x OK ./migrate_layers_layer_modified.py > migrate_layers_layer.txt && cat migrate_layers_layer.txt
+
+x NO SUCH FILE OR DIRECTORY ./migrate_layers_uploadsession.py > migrate_layers_uploadsession.txt && cat migrate_layers_uploadsession.txt
+
+x OK ./migrate_maps_map_modified.py > migrate_maps_map.txt && cat migrate_maps_map.txt
+
+x GONE WITH 2.4b22 ./migrate_notification_noticetype_modified.py > migrate_notification_noticetype.txt && cat migrate_notification_noticetype.txt
+
+x OK ./migrate_taggit_tag.py > migrate_taggit_tag.txt && cat migrate_taggit_tag.txt
+
+x OK ./migrate_upload_upload.py > migrate_upload_upload.txt && cat migrate_upload_upload.txt
+
+x OK ./migrate_user_messages_thread.py > migrate_user_messages_thread.txt && cat migrate_user_messages_thread.txt
+
+x OK ./migrate_account_accountdeletion.py > migrate_account_accountdeletion.txt && cat migrate_account_accountdeletion.txt
+
+x OK ./migrate_account_emailconfirmation.py > migrate_account_emailconfirmation.txt && cat migrate_account_emailconfirmation.txt
+
+x OK ./migrate_account_signupcoderesult.py > migrate_account_signupcoderesult.txt && cat migrate_account_signupcoderesult.txt
+
+x OK ./migrate_actstream_action_modified.py > migrate_actstream_action.txt && cat migrate_actstream_action.txt
+
+x OK ./migrate_actstream_follow_modified.py > migrate_actstream_follow.txt && cat migrate_actstream_follow.txt
+
+x OK ./migrate_agon_ratings_rating_modified.py > migrate_agon_ratings_rating.txt && cat migrate_agon_ratings_rating.txt
+
+x OK ./migrate_announcements_dismissal.py > migrate_announcements_dismissal.txt && cat migrate_announcements_dismissal.txt
+
+x OK (LOTS OF ERRORS) ./migrate_auth_group_permissions_modified.py > migrate_auth_group_permissions.txt && cat migrate_auth_group_permissions.txt
+
+x OK ./migrate_avatar_avatar_modified.py > migrate_avatar_avatar.txt && cat migrate_avatar_avatar.txt
+
+x OK (LOTS OF ERRORS) ./migrate_base_contactrole_modified.py > migrate_base_contactrole.txt && cat migrate_base_contactrole.txt
+
+x OK ./migrate_base_link.py > migrate_base_link.txt && cat migrate_base_link.txt
+
+x OK ./migrate_base_resourcebase_regions.py > migrate_base_resourcebase_regions.txt && cat migrate_base_resourcebase_regions.txt
+
+x OK ./migrate_dialogos_comment_modified.py > migrate_dialogos_comment.txt && cat migrate_dialogos_comment.txt
+
+x OK ./migrate_django_admin_log_modified.py > migrate_django_admin_log.txt && cat migrate_django_admin_log.txt
+
+x OK ./migrate_documents_document_modified.py > migrate_documents_document.txt && cat migrate_documents_document.txt
+
+x OK ./migrate_layers_attribute.py > migrate_layers_attribute.txt && cat migrate_layers_attribute.txt
+
+x OK ./migrate_layers_layer_styles.py > migrate_layers_layer_styles.txt && cat migrate_layers_layer_styles.txt
+
+x OK ./migrate_maps_maplayer_modified.py > migrate_maps_maplayer.txt && cat migrate_maps_maplayer.txt
+
+x OK ./migrate_notification_noticesetting.py > migrate_notification_noticesetting.txt && cat migrate_notification_noticesetting.txt
+
+x OK ./migrate_taggit_taggeditem_modified.py > migrate_taggit_taggeditem.txt && cat migrate_taggit_taggeditem.txt
+
+x OK ./migrate_upload_uploadfile.py > migrate_upload_uploadfile.txt && cat migrate_upload_uploadfile.txt
+
+x OK ./migrate_user_messages_message.py > migrate_user_messages_message.txt && cat migrate_user_messages_message.txt
+
+x OK ./migrate_user_messages_userthread.py > migrate_user_messages_userthread.txt && cat migrate_user_messages_userthread.txt
+
+x OK ./migrate_django_session.py > migrate_django_session.txt && cat migrate_django_session.txt
+
+x OK (1 UNDERSTANDABLE DUPLICATE) ./migrate_django_site.py > migrate_django_site.txt && cat migrate_django_site.txt
+
+x NO SUCH FILE OR DIRECTORY  ./migrate_notification_noticequeuebatch.py > migrate_notification_noticequeuebatch.txt && cat migrate_notification_noticequeuebatch.txt

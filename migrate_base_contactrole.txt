@@ -1,0 +1,2430 @@
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 148,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1646, 148, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 599,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2366, 599, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 39,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(124, 39, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 40,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(126, 40, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 641,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2600, 641, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 155,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1870, 155, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 458,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1654, 458, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 2,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(18, 2, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 461,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1660, 461, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 208,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1874, 208, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 43,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(134, 43, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 41,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1456, 41, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 457,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1666, 457, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 13,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(32, 13, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 14,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(34, 14, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 23,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1880, 23, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 643,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2604, 643, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 644,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2606, 644, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 145,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1072, 145, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 463,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1672, 463, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 112,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(352, 112, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 114,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(354, 114, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 645,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2608, 645, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 190,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(636, 190, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 222,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(732, 222, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(7, 648,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2614, 648, 7, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 635,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2616, 635, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 266,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1904, 266, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 21,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(64, 21, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 22,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(68, 22, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 196,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1074, 196, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 24,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(74, 24, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 25,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(76, 25, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 377,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1306, 377, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 214,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1908, 214, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 219,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1910, 219, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 28,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(84, 28, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 649,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2618, 649, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 144,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1916, 144, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 140,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1918, 140, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 54,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(164, 54, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 82,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(246, 82, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 650,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2620, 650, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+insert or update on table "base_contactrole" violates foreign key constraint "base_contactrole_contact_id_fkey"
+DETAIL:  Key (contact_id)=(30) is not present in table "people_profile".
+select id, resource_id, contact_id, role_id from base_contactrole
+(1081, 307, 30, 1)
+
+<class 'psycopg2.IntegrityError'>
+insert or update on table "base_contactrole" violates foreign key constraint "base_contactrole_contact_id_fkey"
+DETAIL:  Key (contact_id)=(31) is not present in table "people_profile".
+select id, resource_id, contact_id, role_id from base_contactrole
+(1082, 307, 31, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 225,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(746, 225, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 259,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(890, 259, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 142,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(460, 142, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 273,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1928, 273, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 500,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1938, 500, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 77,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(264, 77, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 74,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(266, 74, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 64,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(190, 64, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 143,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(464, 143, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 73,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(268, 73, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 228,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(756, 228, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 507,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1960, 507, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 310,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1090, 310, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 94,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(290, 94, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 262,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(896, 262, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 95,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(294, 95, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 97,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(302, 97, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 146,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(476, 146, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 98,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(306, 98, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 127,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(398, 127, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 469,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1706, 469, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 472,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1714, 472, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 508,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1970, 508, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 511,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1978, 511, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 269,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(920, 269, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 151,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(496, 151, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 513,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1984, 513, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(3, 106,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(334, 106, 3, 2)
+
+<class 'psycopg2.IntegrityError'>
+insert or update on table "base_contactrole" violates foreign key constraint "base_contactrole_contact_id_fkey"
+DETAIL:  Key (contact_id)=(35) is not present in table "people_profile".
+select id, resource_id, contact_id, role_id from base_contactrole
+(1111, 314, 35, 1)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 514,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1986, 514, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 133,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(420, 133, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 512,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2000, 512, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 473,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2006, 473, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 194,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2012, 194, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 93,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2018, 93, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 506,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2020, 506, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 520,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2032, 520, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 522,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2042, 522, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 221,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(728, 221, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(7, 527,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2062, 527, 7, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 604,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2388, 604, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 529,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2072, 529, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 258,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(888, 258, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 161,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(540, 161, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 162,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(542, 162, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 263,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(900, 263, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 264,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(904, 264, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 308,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1086, 308, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 574,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2412, 574, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 639,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2596, 639, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 212,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1872, 212, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 367,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1274, 367, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 460,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1656, 460, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 62,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1876, 62, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 49,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1884, 49, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 318,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1120, 318, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+insert or update on table "base_contactrole" violates foreign key constraint "base_contactrole_contact_id_fkey"
+DETAIL:  Key (contact_id)=(13) is not present in table "people_profile".
+select id, resource_id, contact_id, role_id from base_contactrole
+(768, 233, 13, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 454,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1668, 454, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 141,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(770, 141, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 169,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(574, 169, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 171,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(578, 171, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 666,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2658, 666, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 667,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2662, 667, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 532,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2086, 532, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 669,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2672, 669, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 321,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1126, 321, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 197,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(660, 197, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 671,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2676, 671, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 499,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1906, 499, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 176,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(600, 176, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 351,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1912, 351, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 622,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2486, 622, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(49, 371,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1282, 371, 49, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 623,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2490, 623, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 325,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1134, 325, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 237,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(794, 237, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 236,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(796, 236, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 381,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1922, 381, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 274,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1930, 274, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 278,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(944, 278, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 277,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(946, 277, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 178,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(684, 178, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 276,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(948, 276, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 275,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(950, 275, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 501,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1942, 501, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 624,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2494, 624, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 241,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(816, 241, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 240,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(818, 240, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 227,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(822, 227, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 282,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(960, 282, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 504,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1952, 504, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 407,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2506, 407, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 509,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1968, 509, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 333,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1154, 333, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 627,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2516, 627, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 234,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(834, 234, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 244,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(836, 244, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 245,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(840, 245, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 334,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1162, 334, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 246,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(844, 246, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 383,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1338, 383, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 293,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(982, 293, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+insert or update on table "base_contactrole" violates foreign key constraint "base_contactrole_contact_id_fkey"
+DETAIL:  Key (contact_id)=(14) is not present in table "people_profile".
+select id, resource_id, contact_id, role_id from base_contactrole
+(851, 248, 14, 1)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 517,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1998, 517, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+insert or update on table "base_contactrole" violates foreign key constraint "base_contactrole_contact_id_fkey"
+DETAIL:  Key (contact_id)=(15) is not present in table "people_profile".
+select id, resource_id, contact_id, role_id from base_contactrole
+(855, 249, 15, 1)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 495,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2002, 495, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 465,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2008, 465, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 107,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2014, 107, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 252,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(864, 252, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 518,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2026, 518, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 295,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(990, 295, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 519,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2030, 519, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 296,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(994, 296, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 399,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1386, 399, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 521,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2038, 521, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 525,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2054, 525, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+insert or update on table "base_contactrole" violates foreign key constraint "base_contactrole_contact_id_fkey"
+DETAIL:  Key (contact_id)=(19) is not present in table "people_profile".
+select id, resource_id, contact_id, role_id from base_contactrole
+(1028, 69, 19, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 304,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1042, 304, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+insert or update on table "base_contactrole" violates foreign key constraint "base_contactrole_contact_id_fkey"
+DETAIL:  Key (contact_id)=(29) is not present in table "people_profile".
+select id, resource_id, contact_id, role_id from base_contactrole
+(1052, 305, 29, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 306,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1056, 306, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 191,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1060, 191, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 375,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1290, 375, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 640,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2598, 640, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 530,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2076, 530, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 428,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1472, 428, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 429,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1476, 429, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 16,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1878, 16, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 339,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1180, 339, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(40, 340,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1182, 340, 40, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 63,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1886, 63, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 341,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1186, 341, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 531,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2080, 531, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(7, 416,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1894, 416, 7, 2)
+
+<class 'psycopg2.IntegrityError'>
+insert or update on table "base_contactrole" violates foreign key constraint "base_contactrole_contact_id_fkey"
+DETAIL:  Key (contact_id)=(72) is not present in table "people_profile".
+select id, resource_id, contact_id, role_id from base_contactrole
+(1731, 478, 72, 1)
+
+<class 'psycopg2.IntegrityError'>
+insert or update on table "base_contactrole" violates foreign key constraint "base_contactrole_contact_id_fkey"
+DETAIL:  Key (contact_id)=(72) is not present in table "people_profile".
+select id, resource_id, contact_id, role_id from base_contactrole
+(1732, 478, 72, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 652,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2624, 652, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 533,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2090, 533, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 11,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1900, 11, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 382,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1334, 382, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 12,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1914, 12, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 337,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1924, 337, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 535,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2098, 535, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 348,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1208, 348, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 510,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1974, 510, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 349,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1212, 349, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 653,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2626, 653, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 384,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1342, 384, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 385,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1346, 385, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 654,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2628, 654, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 386,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1348, 386, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 355,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1234, 355, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 356,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1236, 356, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 481,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1748, 481, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 482,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1752, 482, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 393,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1364, 393, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 358,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1252, 358, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 359,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1256, 359, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 360,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1258, 360, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 362,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1262, 362, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 363,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1264, 363, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 364,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1266, 364, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 483,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1756, 483, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 366,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1270, 366, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 479,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1758, 479, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 484,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1760, 484, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 396,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1374, 396, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 397,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1378, 397, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 485,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1762, 485, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 468,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1764, 468, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 400,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1388, 400, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 401,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1394, 401, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 402,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1396, 402, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 403,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1398, 403, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 445,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1524, 445, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 135,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1772, 135, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 395,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1414, 395, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 442,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1528, 442, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 408,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1418, 408, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 160,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1774, 160, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 441,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1532, 441, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 410,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1426, 410, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 335,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1428, 335, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 121,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1776, 121, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 446,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1538, 446, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 427,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1540, 427, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(50, 417,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1444, 417, 50, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 136,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1542, 136, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 439,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1552, 439, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 430,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1554, 430, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 438,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1556, 438, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 433,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1558, 433, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 449,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1562, 449, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 451,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1574, 451, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 443,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1576, 443, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 425,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1582, 425, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 447,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1584, 447, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 448,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1586, 448, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 267,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1590, 267, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 268,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1592, 268, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 440,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1594, 440, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 303,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1596, 303, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 223,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1598, 223, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 226,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1600, 226, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 338,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1602, 338, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 424,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1604, 424, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 137,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1612, 137, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 456,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1640, 456, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 80,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1780, 80, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 79,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1782, 79, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 528,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2068, 528, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 655,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2630, 655, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 224,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1788, 224, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 668,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2668, 668, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 37,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1792, 37, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 32,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1796, 32, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 336,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1868, 336, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 610,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2684, 610, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 89,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1888, 89, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 10,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1902, 10, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 487,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1808, 487, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 380,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1926, 380, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 676,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2696, 676, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 489,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1816, 489, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 602,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2378, 602, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 490,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1820, 490, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 491,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1824, 491, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 492,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1826, 492, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 493,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1828, 493, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 467,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2004, 467, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 494,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1832, 494, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 680,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2712, 680, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 603,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2382, 603, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 88,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2016, 88, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 496,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1840, 496, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 159,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1842, 159, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 158,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1844, 158, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 683,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2724, 683, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 157,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(1848, 157, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 693,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2752, 693, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 539,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2112, 539, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+insert or update on table "base_contactrole" violates foreign key constraint "base_contactrole_contact_id_fkey"
+DETAIL:  Key (contact_id)=(84) is not present in table "people_profile".
+select id, resource_id, contact_id, role_id from base_contactrole
+(2393, 607, 84, 1)
+
+<class 'psycopg2.IntegrityError'>
+insert or update on table "base_contactrole" violates foreign key constraint "base_contactrole_contact_id_fkey"
+DETAIL:  Key (contact_id)=(84) is not present in table "people_profile".
+select id, resource_id, contact_id, role_id from base_contactrole
+(2394, 607, 84, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 540,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2116, 540, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 609,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2400, 609, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 27,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2402, 27, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 542,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2124, 542, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 543,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2128, 543, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 600,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2408, 600, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 546,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2140, 546, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 547,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2144, 547, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 541,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2146, 541, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 548,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2150, 548, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 549,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2154, 549, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 332,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2436, 332, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 550,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2162, 550, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 612,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2438, 612, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 551,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2166, 551, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 552,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2170, 552, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 553,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2174, 553, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 613,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2446, 613, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 555,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2182, 555, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 556,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2186, 556, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 614,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2450, 614, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 558,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2194, 558, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 615,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2454, 615, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 616,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2458, 616, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 617,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2462, 617, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 559,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2208, 559, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 560,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2210, 560, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 618,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2468, 618, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 621,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2482, 621, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 625,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2502, 625, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 567,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2242, 567, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 568,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2246, 568, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 569,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2250, 569, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 570,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2254, 570, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 571,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2258, 571, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 573,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2266, 573, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 580,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2290, 580, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 582,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2296, 582, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 581,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2300, 581, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 561,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2302, 561, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 464,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2312, 464, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 585,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2314, 585, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 586,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2318, 586, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 656,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2632, 656, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 589,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2326, 589, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 657,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2634, 657, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 658,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2636, 658, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 659,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2638, 659, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 660,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2640, 660, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 661,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2642, 661, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 662,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2644, 662, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 593,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2342, 593, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 663,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2646, 663, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 594,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2346, 594, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 619,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2472, 619, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 595,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2350, 595, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 620,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2478, 620, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 596,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2354, 596, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 177,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2504, 177, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 597,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2358, 597, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 664,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2648, 664, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 598,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2362, 598, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 626,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2512, 626, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 628,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2520, 628, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 629,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2524, 629, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 630,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2528, 630, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 132,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2530, 132, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 192,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2532, 192, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 505,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2654, 505, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 631,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2540, 631, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 523,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2542, 523, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 670,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2674, 670, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 591,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2550, 591, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 534,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2552, 534, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 536,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2556, 536, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 526,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2558, 526, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 633,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2562, 633, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 632,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2564, 632, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 579,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2566, 579, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 634,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2568, 634, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 636,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2578, 636, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 675,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2694, 675, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 637,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2582, 637, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 638,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2584, 638, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 538,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2590, 538, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 682,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2720, 682, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 688,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2738, 688, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 689,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2740, 689, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 690,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2744, 690, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 198,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2746, 198, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 691,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2748, 691, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 692,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2750, 692, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 694,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2754, 694, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 695,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2756, 695, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 696,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2758, 696, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 697,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2760, 697, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 699,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2766, 699, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 592,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2768, 592, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 557,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2770, 557, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 564,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2772, 564, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 563,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2774, 563, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 554,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2776, 554, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 566,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2778, 566, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 565,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2780, 565, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 572,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2782, 572, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 575,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2784, 575, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 677,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2786, 677, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 684,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2788, 684, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 685,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2790, 685, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 700,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2794, 700, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 701,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2796, 701, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 698,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2806, 698, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 704,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2810, 704, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 706,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2816, 706, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 705,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2818, 705, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(8, 708,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2824, 708, 8, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 544,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2826, 544, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "base_contactrole_contact_id_resource_id_role_key"
+DETAIL:  Key (contact_id, resource_id, role)=(1, 710,  ) already exists.
+select id, resource_id, contact_id, role_id from base_contactrole
+(2832, 710, 1, 2)

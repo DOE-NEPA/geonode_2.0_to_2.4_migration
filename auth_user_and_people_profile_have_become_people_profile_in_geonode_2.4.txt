@@ -1,0 +1,185 @@
+ONE (2.0)
+
+                                    Table "geonode.auth_user"
+    Column    |           Type           |                       Modifiers                        
+--------------+--------------------------+--------------------------------------------------------
+ id           | integer                  | not null default nextval('auth_user_id_seq'::regclass)
+ password     | character varying(128)   | not null
+ last_login   | timestamp with time zone | not null
+ is_superuser | boolean                  | not null
+ username     | character varying(30)    | not null
+ first_name   | character varying(30)    | not null
+ last_name    | character varying(30)    | not null
+ email        | character varying(75)    | not null
+ is_staff     | boolean                  | not null
+ is_active    | boolean                  | not null
+ date_joined  | timestamp with time zone | not null
+Indexes:
+    "auth_user_pkey" PRIMARY KEY, btree (id)
+    "auth_user_username_key" UNIQUE CONSTRAINT, btree (username)
+    "auth_user_username_like" btree (username varchar_pattern_ops)
+Referenced by:
+    TABLE "account_account" CONSTRAINT "account_account_user_id_fkey" FOREIGN KEY (user_id) REFERENCES auth_user(id) DEFERRABLE INITIALLY DEFERRED
+    TABLE "account_accountdeletion" CONSTRAINT "account_accountdeletion_user_id_fkey" FOREIGN KEY (user_id) REFERENCES auth_user(id) DEFERRABLE INITIALLY DEFERRED
+    TABLE "account_emailaddress" CONSTRAINT "account_emailaddress_user_id_fkey" FOREIGN KEY (user_id) REFERENCES auth_user(id) DEFERRABLE INITIALLY DEFERRED
+    TABLE "account_signupcode" CONSTRAINT "account_signupcode_inviter_id_fkey" FOREIGN KEY (inviter_id) REFERENCES auth_user(id) DEFERRABLE INITIALLY DEFERRED
+    TABLE "account_signupcoderesult" CONSTRAINT "account_signupcoderesult_user_id_fkey" FOREIGN KEY (user_id) REFERENCES auth_user(id) DEFERRABLE INITIALLY DEFERRED
+    TABLE "actstream_follow" CONSTRAINT "actstream_follow_user_id_fkey" FOREIGN KEY (user_id) REFERENCES auth_user(id) DEFERRABLE INITIALLY DEFERRED
+    TABLE "agon_ratings_rating" CONSTRAINT "agon_ratings_rating_user_id_fkey" FOREIGN KEY (user_id) REFERENCES auth_user(id) DEFERRABLE INITIALLY DEFERRED
+    TABLE "announcements_announcement" CONSTRAINT "announcements_announcement_creator_id_fkey" FOREIGN KEY (creator_id) REFERENCES auth_user(id) DEFERRABLE INITIALLY DEFERRED
+    TABLE "announcements_dismissal" CONSTRAINT "announcements_dismissal_user_id_fkey" FOREIGN KEY (user_id) REFERENCES auth_user(id) DEFERRABLE INITIALLY DEFERRED
+    TABLE "zinnia_entry_authors" CONSTRAINT "author_id_refs_id_410656e2874b02ff" FOREIGN KEY (author_id) REFERENCES auth_user(id) DEFERRABLE INITIALLY DEFERRED
+    TABLE "avatar_avatar" CONSTRAINT "avatar_avatar_user_id_fkey" FOREIGN KEY (user_id) REFERENCES auth_user(id) DEFERRABLE INITIALLY DEFERRED
+    TABLE "base_resourcebase" CONSTRAINT "base_resourcebase_owner_id_fkey" FOREIGN KEY (owner_id) REFERENCES auth_user(id) DEFERRABLE INITIALLY DEFERRED
+    TABLE "dialogos_comment" CONSTRAINT "dialogos_comment_author_id_fkey" FOREIGN KEY (author_id) REFERENCES auth_user(id) DEFERRABLE INITIALLY DEFERRED
+    TABLE "django_admin_log" CONSTRAINT "django_admin_log_user_id_fkey" FOREIGN KEY (user_id) REFERENCES auth_user(id) DEFERRABLE INITIALLY DEFERRED
+    TABLE "django_comment_flags" CONSTRAINT "django_comment_flags_user_id_fkey" FOREIGN KEY (user_id) REFERENCES auth_user(id) DEFERRABLE INITIALLY DEFERRED
+    TABLE "django_comments" CONSTRAINT "django_comments_user_id_fkey" FOREIGN KEY (user_id) REFERENCES auth_user(id) DEFERRABLE INITIALLY DEFERRED
+    TABLE "notification_noticesetting" CONSTRAINT "notification_noticesetting_user_id_fkey" FOREIGN KEY (user_id) REFERENCES auth_user(id) DEFERRABLE INITIALLY DEFERRED
+    TABLE "people_profile" CONSTRAINT "people_profile_user_id_fkey" FOREIGN KEY (user_id) REFERENCES auth_user(id) DEFERRABLE INITIALLY DEFERRED
+    TABLE "security_userobjectrolemapping" CONSTRAINT "security_userobjectrolemapping_user_id_fkey" FOREIGN KEY (user_id) REFERENCES auth_user(id) DEFERRABLE INITIALLY DEFERRED
+    TABLE "upload_upload" CONSTRAINT "upload_upload_user_id_fkey" FOREIGN KEY (user_id) REFERENCES auth_user(id) DEFERRABLE INITIALLY DEFERRED
+    TABLE "auth_user_groups" CONSTRAINT "user_id_refs_id_40c41112" FOREIGN KEY (user_id) REFERENCES auth_user(id) DEFERRABLE INITIALLY DEFERRED
+    TABLE "auth_user_user_permissions" CONSTRAINT "user_id_refs_id_4dc23c39" FOREIGN KEY (user_id) REFERENCES auth_user(id) DEFERRABLE INITIALLY DEFERRED
+    TABLE "user_messages_message" CONSTRAINT "user_messages_message_sender_id_fkey" FOREIGN KEY (sender_id) REFERENCES auth_user(id) DEFERRABLE INITIALLY DEFERRED
+    TABLE "user_messages_userthread" CONSTRAINT "user_messages_userthread_user_id_fkey" FOREIGN KEY (user_id) REFERENCES auth_user(id) DEFERRABLE INITIALLY DEFERRED
+
+                                   Table "geonode.people_profile"
+    Column    |          Type          |                          Modifiers                          
+--------------+------------------------+-------------------------------------------------------------
+ id           | integer                | not null default nextval('people_profile_id_seq'::regclass)
+ user_id      | integer                | 
+ name         | character varying(255) | 
+ organization | character varying(255) | 
+ profile      | text                   | 
+ position     | character varying(255) | 
+ voice        | character varying(255) | 
+ fax          | character varying(255) | 
+ delivery     | character varying(255) | 
+ city         | character varying(255) | 
+ area         | character varying(255) | 
+ zipcode      | character varying(255) | 
+ country      | character varying(3)   | 
+ email        | character varying(75)  | 
+Indexes:
+    "people_profile_pkey" PRIMARY KEY, btree (id)
+    "people_profile_user_id_key" UNIQUE CONSTRAINT, btree (user_id)
+Foreign-key constraints:
+    "people_profile_user_id_fkey" FOREIGN KEY (user_id) REFERENCES auth_user(id) DEFERRABLE INITIALLY DEFERRED
+Referenced by:
+    TABLE "base_contactrole" CONSTRAINT "base_contactrole_contact_id_fkey" FOREIGN KEY (contact_id) REFERENCES people_profile(id) DEFERRABLE INITIALLY DEFERRED
+
+
+TWO (2.4b20)
+
+                                     Table "public.people_profile"
+    Column    |           Type           |                          Modifiers                          
+--------------+--------------------------+-------------------------------------------------------------
+ id           | integer                  | not null default nextval('people_profile_id_seq'::regclass)
+ password     | character varying(128)   | not null
+ last_login   | timestamp with time zone | not null
+ is_superuser | boolean                  | not null
+ username     | character varying(30)    | not null
+ first_name   | character varying(30)    | not null
+ last_name    | character varying(30)    | not null
+ email        | character varying(75)    | not null
+ is_staff     | boolean                  | not null
+ is_active    | boolean                  | not null
+ date_joined  | timestamp with time zone | not null
+ organization | character varying(255)   | 
+ profile      | text                     | 
+ position     | character varying(255)   | 
+ voice        | character varying(255)   | 
+ fax          | character varying(255)   | 
+ delivery     | character varying(255)   | 
+ city         | character varying(255)   | 
+ area         | character varying(255)   | 
+ zipcode      | character varying(255)   | 
+ country      | character varying(3)     | 
+Indexes:
+    "people_profile_pkey" PRIMARY KEY, btree (id)
+    "people_profile_username_key" UNIQUE CONSTRAINT, btree (username)
+    "people_profile_username_like" btree (username varchar_pattern_ops)
+Referenced by:
+    TABLE "actstream_follow" CONSTRAINT "actstream_follow_user_id_fkey" FOREIGN KEY (user_id) REFERENCES people_profile(id) DEFERRABLE INITIALLY DEFERRED
+    TABLE "announcements_announcement" CONSTRAINT "announcements_announcement_creator_id_fkey" FOREIGN KEY (creator_id) REFERENCES people_profile(id) DEFERRABLE INITIALLY DEFERRED
+    TABLE "announcements_dismissal" CONSTRAINT "announcements_dismissal_user_id_fkey" FOREIGN KEY (user_id) REFERENCES people_profile(id) DEFERRABLE INITIALLY DEFERRED
+    TABLE "dialogos_comment" CONSTRAINT "author_id_refs_id_54e35d27" FOREIGN KEY (author_id) REFERENCES people_profile(id) DEFERRABLE INITIALLY DEFERRED
+    TABLE "base_contactrole" CONSTRAINT "base_contactrole_contact_id_fkey" FOREIGN KEY (contact_id) REFERENCES people_profile(id) DEFERRABLE INITIALLY DEFERRED
+    TABLE "base_resourcebase" CONSTRAINT "base_resourcebase_owner_id_fkey" FOREIGN KEY (owner_id) REFERENCES people_profile(id) DEFERRABLE INITIALLY DEFERRED
+    TABLE "groups_groupinvitation" CONSTRAINT "groups_groupinvitation_from_user_id_fkey" FOREIGN KEY (from_user_id) REFERENCES people_profile(id) DEFERRABLE INITIALLY DEFERRED
+    TABLE "groups_groupinvitation" CONSTRAINT "groups_groupinvitation_user_id_fkey" FOREIGN KEY (user_id) REFERENCES people_profile(id) DEFERRABLE INITIALLY DEFERRED
+    TABLE "groups_groupmember" CONSTRAINT "groups_groupmember_user_id_fkey" FOREIGN KEY (user_id) REFERENCES people_profile(id) DEFERRABLE INITIALLY DEFERRED
+    TABLE "guardian_userobjectpermission" CONSTRAINT "guardian_userobjectpermission_user_id_fkey" FOREIGN KEY (user_id) REFERENCES people_profile(id) DEFERRABLE INITIALLY DEFERRED
+    TABLE "account_signupcode" CONSTRAINT "inviter_id_refs_id_49a7c0d9" FOREIGN KEY (inviter_id) REFERENCES people_profile(id) DEFERRABLE INITIALLY DEFERRED
+    TABLE "layers_uploadsession" CONSTRAINT "layers_uploadsession_user_id_fkey" FOREIGN KEY (user_id) REFERENCES people_profile(id) DEFERRABLE INITIALLY DEFERRED
+    TABLE "maps_mapsnapshot" CONSTRAINT "maps_mapsnapshot_user_id_fkey" FOREIGN KEY (user_id) REFERENCES people_profile(id) DEFERRABLE INITIALLY DEFERRED
+    TABLE "people_profile_user_permissions" CONSTRAINT "profile_id_refs_id_1769398d" FOREIGN KEY (profile_id) REFERENCES people_profile(id) DEFERRABLE INITIALLY DEFERRED
+    TABLE "people_profile_groups" CONSTRAINT "profile_id_refs_id_8228233c" FOREIGN KEY (profile_id) REFERENCES people_profile(id) DEFERRABLE INITIALLY DEFERRED
+    TABLE "user_messages_message" CONSTRAINT "sender_id_refs_id_51f30629" FOREIGN KEY (sender_id) REFERENCES people_profile(id) DEFERRABLE INITIALLY DEFERRED
+    TABLE "services_serviceprofilerole" CONSTRAINT "services_serviceprofilerole_profiles_id_fkey" FOREIGN KEY (profiles_id) REFERENCES people_profile(id) DEFERRABLE INITIALLY DEFERRED
+    TABLE "tastypie_apikey" CONSTRAINT "tastypie_apikey_user_id_fkey" FOREIGN KEY (user_id) REFERENCES people_profile(id) DEFERRABLE INITIALLY DEFERRED
+    TABLE "upload_upload" CONSTRAINT "upload_upload_user_id_fkey" FOREIGN KEY (user_id) REFERENCES people_profile(id) DEFERRABLE INITIALLY DEFERRED
+    TABLE "account_signupcoderesult" CONSTRAINT "user_id_refs_id_05af6689" FOREIGN KEY (user_id) REFERENCES people_profile(id) DEFERRABLE INITIALLY DEFERRED
+    TABLE "agon_ratings_rating" CONSTRAINT "user_id_refs_id_161220b5" FOREIGN KEY (user_id) REFERENCES people_profile(id) DEFERRABLE INITIALLY DEFERRED
+    TABLE "django_admin_log" CONSTRAINT "user_id_refs_id_33a5e2b6" FOREIGN KEY (user_id) REFERENCES people_profile(id) DEFERRABLE INITIALLY DEFERRED
+    TABLE "notification_noticesetting" CONSTRAINT "user_id_refs_id_4bbdc264" FOREIGN KEY (user_id) REFERENCES people_profile(id) DEFERRABLE INITIALLY DEFERRED
+    TABLE "account_account" CONSTRAINT "user_id_refs_id_726cb6b4" FOREIGN KEY (user_id) REFERENCES people_profile(id) DEFERRABLE INITIALLY DEFERRED
+    TABLE "user_messages_userthread" CONSTRAINT "user_id_refs_id_8e24cd96" FOREIGN KEY (user_id) REFERENCES people_profile(id) DEFERRABLE INITIALLY DEFERRED
+    TABLE "account_accountdeletion" CONSTRAINT "user_id_refs_id_91e257b6" FOREIGN KEY (user_id) REFERENCES people_profile(id) DEFERRABLE INITIALLY DEFERRED
+    TABLE "avatar_avatar" CONSTRAINT "user_id_refs_id_a79f4314" FOREIGN KEY (user_id) REFERENCES people_profile(id) DEFERRABLE INITIALLY DEFERRED
+    TABLE "account_emailaddress" CONSTRAINT "user_id_refs_id_cc5290fa" FOREIGN KEY (user_id) REFERENCES people_profile(id) DEFERRABLE INITIALLY DEFERRED
+
+
+
+select auth_user.id,         
+       auth_user.password,   
+       auth_user.last_login, 
+       auth_user.is_superuser,
+       auth_user.username,   
+       auth_user.first_name, 
+       auth_user.last_name,  
+       auth_user.email auth_user_email,      
+       auth_user.is_staff,   
+       auth_user.is_active,  
+       auth_user.date_joined,
+       people_profile.id people_profile_id,          
+       people_profile.user_id,     
+       people_profile.name,        
+       people_profile.organization,
+       people_profile.profile,     
+       people_profile.position,    
+       people_profile.voice,       
+       people_profile.fax,         
+       people_profile.delivery,    
+       people_profile.city,        
+       people_profile.area,        
+       people_profile.zipcode,     
+       people_profile.country,     
+       people_profile.email people_profile_email
+from   people_profile 
+join   auth_user 
+on     people_profile.user_id = auth_user.id
+order by auth_user.id;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       

@@ -1,0 +1,60 @@
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "django_content_type_app_label_model_key"
+DETAIL:  Key (app_label, model)=(south, migrationhistory) already exists.
+select id, name, app_label, model from django_content_type
+(11, 'migration history', 'south', 'migrationhistory')
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "django_content_type_app_label_model_key"
+DETAIL:  Key (app_label, model)=(notification, noticetype) already exists.
+select id, name, app_label, model from django_content_type
+(22, 'notice type', 'notification', 'noticetype')
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "django_content_type_app_label_model_key"
+DETAIL:  Key (app_label, model)=(notification, noticesetting) already exists.
+select id, name, app_label, model from django_content_type
+(23, 'notice setting', 'notification', 'noticesetting')
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "django_content_type_app_label_model_key"
+DETAIL:  Key (app_label, model)=(notification, noticequeuebatch) already exists.
+select id, name, app_label, model from django_content_type
+(24, 'notice queue batch', 'notification', 'noticequeuebatch')
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "django_content_type_app_label_model_key"
+DETAIL:  Key (app_label, model)=(people, profile) already exists.
+select id, name, app_label, model from django_content_type
+(31, 'profile', 'people', 'profile')
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "django_content_type_app_label_model_key"
+DETAIL:  Key (app_label, model)=(tagging, tag) already exists.
+select id, name, app_label, model from django_content_type
+(55, 'tag', 'tagging', 'tag')
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "django_content_type_app_label_model_key"
+DETAIL:  Key (app_label, model)=(tagging, taggeditem) already exists.
+select id, name, app_label, model from django_content_type
+(56, 'tagged item', 'tagging', 'taggeditem')
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "django_content_type_app_label_model_key"
+DETAIL:  Key (app_label, model)=(zinnia, entry) already exists.
+select id, name, app_label, model from django_content_type
+(57, '', 'zinnia', 'entry')
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "django_content_type_app_label_model_key"
+DETAIL:  Key (app_label, model)=(zinnia, category) already exists.
+select id, name, app_label, model from django_content_type
+(58, 'category', 'zinnia', 'category')
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "django_content_type_app_label_model_key"
+DETAIL:  Key (app_label, model)=(zinnia, author) already exists.
+select id, name, app_label, model from django_content_type
+(59, 'author', 'zinnia', 'author')

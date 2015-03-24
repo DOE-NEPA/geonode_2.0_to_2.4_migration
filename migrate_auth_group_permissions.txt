@@ -1,0 +1,1926 @@
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(699) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(699, 3, 129)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(700) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(700, 3, 130)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(701) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(701, 3, 132)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(702) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(702, 3, 22)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(703) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(703, 3, 135)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(704) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(704, 3, 136)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(3, 138) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(705, 3, 138)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(707) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(707, 3, 140)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(708) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(708, 3, 141)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(709) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(709, 3, 14)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(3, 143) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(710, 3, 143)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(3, 144) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(711, 3, 144)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(3, 149) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(714, 3, 149)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(3, 150) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(715, 3, 150)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(716) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(716, 3, 23)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(717) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(717, 3, 152)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(718) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(718, 3, 153)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(719) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(719, 3, 154)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(722) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(722, 3, 26)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(723) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(723, 3, 133)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(3, 176) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(728, 3, 176)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(3, 177) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(729, 3, 177)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(3, 179) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(731, 3, 179)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(3, 180) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(732, 3, 180)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(736) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(736, 3, 13)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(737) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(737, 3, 25)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(738) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(738, 3, 118)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(739) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(739, 3, 119)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(740) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(740, 3, 121)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(741) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(741, 3, 122)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(3, 124) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(742, 3, 124)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(744) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(744, 3, 126)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(745) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(745, 3, 127)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(746) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(746, 4, 128)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(747) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(747, 4, 129)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(748) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(748, 4, 130)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(749) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(749, 4, 132)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(750) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(750, 4, 133)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(751) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(751, 4, 135)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(752) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(752, 4, 136)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(4, 138) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(753, 4, 138)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(4, 139) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(754, 4, 139)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(755) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(755, 4, 140)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(756) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(756, 4, 141)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(757) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(757, 4, 19)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(758) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(758, 4, 20)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(759) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(759, 4, 22)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(760) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(760, 4, 23)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(761) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(761, 4, 152)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(762) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(762, 4, 153)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(763) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(763, 4, 26)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(4, 176) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(778, 4, 176)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(4, 177) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(779, 4, 177)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(4, 180) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(781, 4, 180)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(783) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(783, 4, 55)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(784) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(784, 4, 56)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(785) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(785, 4, 57)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(787) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(787, 4, 25)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(788) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(788, 4, 118)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(789) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(789, 4, 119)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(790) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(790, 4, 121)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(791) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(791, 4, 122)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(4, 124) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(792, 4, 124)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(794) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(794, 4, 126)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(795) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(795, 4, 127)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(675) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(675, 2, 133)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(676) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(676, 2, 134)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(677) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(677, 2, 135)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(678) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(678, 2, 136)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(679) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(679, 2, 137)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(2, 138) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(680, 2, 138)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(2, 139) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(681, 2, 139)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(682) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(682, 2, 140)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(683) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(683, 2, 141)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(684) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(684, 2, 142)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(685) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(685, 2, 152)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(686) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(686, 2, 153)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(687) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(687, 2, 154)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(2, 176) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(690, 2, 176)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(2, 177) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(691, 2, 177)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(2, 178) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(692, 2, 178)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(2, 179) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(693, 2, 179)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(2, 180) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(694, 2, 180)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(2, 181) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(695, 2, 181)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(271) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(271, 1, 1)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(272) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(272, 1, 2)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(273) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(273, 1, 3)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(274) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(274, 1, 4)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(275) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(275, 1, 5)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(276) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(276, 1, 6)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(277) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(277, 1, 7)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(278) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(278, 1, 8)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(279) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(279, 1, 9)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(280) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(280, 1, 10)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(281) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(281, 1, 11)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(282) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(282, 1, 12)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(283) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(283, 1, 13)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(284) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(284, 1, 14)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(285) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(285, 1, 15)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(286) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(286, 1, 16)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(287) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(287, 1, 17)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(288) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(288, 1, 18)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(289) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(289, 1, 19)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(290) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(290, 1, 20)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(291) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(291, 1, 21)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(292) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(292, 1, 22)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(293) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(293, 1, 23)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(294) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(294, 1, 24)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(295) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(295, 1, 25)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(296) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(296, 1, 26)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(297) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(297, 1, 27)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(304) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(304, 1, 34)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(305) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(305, 1, 35)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(306) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(306, 1, 36)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(307) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(307, 1, 37)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(308) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(308, 1, 38)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(309) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(309, 1, 39)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(310) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(310, 1, 40)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(311) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(311, 1, 41)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(312) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(312, 1, 42)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(313) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(313, 1, 43)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(314) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(314, 1, 44)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(315) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(315, 1, 45)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(316) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(316, 1, 46)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(317) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(317, 1, 47)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(318) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(318, 1, 48)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(319) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(319, 1, 49)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(320) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(320, 1, 50)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(321) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(321, 1, 51)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(322) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(322, 1, 52)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(323) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(323, 1, 53)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(324) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(324, 1, 54)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(325) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(325, 1, 55)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(326) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(326, 1, 56)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(327) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(327, 1, 57)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(328) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(328, 1, 58)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(329) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(329, 1, 59)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(330) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(330, 1, 60)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(331) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(331, 1, 61)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(332) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(332, 1, 62)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(333) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(333, 1, 63)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(1, 64) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(334, 1, 64)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(1, 65) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(335, 1, 65)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(1, 66) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(336, 1, 66)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(1, 67) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(337, 1, 67)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(1, 68) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(338, 1, 68)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(1, 69) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(339, 1, 69)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(1, 70) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(340, 1, 70)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(1, 71) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(341, 1, 71)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(1, 72) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(342, 1, 72)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(343) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(343, 1, 73)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(344) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(344, 1, 74)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(345) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(345, 1, 75)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(346) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(346, 1, 76)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(347) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(347, 1, 77)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(348) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(348, 1, 78)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(349) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(349, 1, 79)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(350) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(350, 1, 80)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(351) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(351, 1, 81)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(352) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(352, 1, 82)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(353) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(353, 1, 83)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(354) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(354, 1, 84)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(355) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(355, 1, 85)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(356) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(356, 1, 86)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(357) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(357, 1, 87)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(1, 88) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(358, 1, 88)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(1, 89) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(359, 1, 89)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(1, 90) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(360, 1, 90)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(1, 91) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(361, 1, 91)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(1, 92) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(362, 1, 92)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(1, 93) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(363, 1, 93)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(364) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(364, 1, 94)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(365) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(365, 1, 95)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(366) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(366, 1, 96)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(367) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(367, 1, 97)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(368) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(368, 1, 98)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(369) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(369, 1, 99)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(370) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(370, 1, 100)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(371) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(371, 1, 101)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(372) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(372, 1, 102)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(373) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(373, 1, 103)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(374) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(374, 1, 104)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(375) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(375, 1, 105)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(376) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(376, 1, 106)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(377) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(377, 1, 107)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(378) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(378, 1, 108)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(382) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(382, 1, 112)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(383) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(383, 1, 113)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(384) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(384, 1, 114)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(385) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(385, 1, 115)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(386) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(386, 1, 116)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(387) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(387, 1, 117)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(388) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(388, 1, 118)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(389) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(389, 1, 119)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(390) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(390, 1, 120)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(391) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(391, 1, 121)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(392) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(392, 1, 122)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(393) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(393, 1, 123)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(1, 124) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(394, 1, 124)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(1, 125) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(395, 1, 125)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(396) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(396, 1, 126)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(397) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(397, 1, 127)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(398) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(398, 1, 128)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(399) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(399, 1, 129)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(400) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(400, 1, 130)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(401) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(401, 1, 131)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(402) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(402, 1, 132)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(403) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(403, 1, 133)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(404) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(404, 1, 134)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(405) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(405, 1, 135)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(406) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(406, 1, 136)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(407) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(407, 1, 137)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(1, 138) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(408, 1, 138)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(1, 139) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(409, 1, 139)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(410) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(410, 1, 140)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(411) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(411, 1, 141)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(412) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(412, 1, 142)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(1, 143) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(413, 1, 143)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(1, 144) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(414, 1, 144)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(1, 145) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(415, 1, 145)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(1, 149) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(419, 1, 149)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(1, 150) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(420, 1, 150)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(1, 151) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(421, 1, 151)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(422) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(422, 1, 152)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(423) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(423, 1, 153)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(424) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(424, 1, 154)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(427) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(427, 1, 157)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(428) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(428, 1, 158)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(429) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(429, 1, 159)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(430) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(430, 1, 160)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(431) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(431, 1, 161)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(432) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(432, 1, 162)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(1, 176) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(446, 1, 176)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(1, 177) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(447, 1, 177)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(1, 178) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(448, 1, 178)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(1, 179) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(449, 1, 179)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(1, 180) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(450, 1, 180)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(1, 181) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(451, 1, 181)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(577) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(577, 2, 4)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(578) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(578, 2, 5)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(579) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(579, 2, 10)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(580) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(580, 2, 11)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(581) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(581, 2, 12)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(582) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(582, 2, 19)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(583) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(583, 2, 20)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(584) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(584, 2, 21)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(585) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(585, 2, 22)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(586) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(586, 2, 23)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(587) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(587, 2, 24)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(588) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(588, 2, 25)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(589) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(589, 2, 26)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(590) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(590, 2, 27)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(597) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(597, 2, 52)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(598) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(598, 2, 53)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(599) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(599, 2, 54)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(600) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(600, 2, 55)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(601) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(601, 2, 56)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(602) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(602, 2, 57)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(603) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(603, 2, 58)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(604) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(604, 2, 59)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(605) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(605, 2, 60)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(606) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(606, 2, 61)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(607) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(607, 2, 62)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(608) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(608, 2, 63)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(2, 70) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(615, 2, 70)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(2, 71) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(616, 2, 71)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(2, 72) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(617, 2, 72)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(618) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(618, 2, 73)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(619) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(619, 2, 74)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(620) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(620, 2, 75)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(621) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(621, 2, 76)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(622) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(622, 2, 77)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(623) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(623, 2, 78)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(624) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(624, 2, 79)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(625) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(625, 2, 80)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(626) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(626, 2, 81)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(627) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(627, 2, 82)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(628) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(628, 2, 83)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(629) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(629, 2, 84)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(630) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(630, 2, 85)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(631) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(631, 2, 86)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(632) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(632, 2, 87)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(633) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(633, 2, 91)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(634) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(634, 2, 92)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(635) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(635, 2, 93)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(636) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(636, 2, 94)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(637) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(637, 2, 95)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(638) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(638, 2, 96)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(639) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(639, 2, 97)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(640) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(640, 2, 98)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(641) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(641, 2, 99)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(642) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(642, 2, 100)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(643) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(643, 2, 101)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(644) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(644, 2, 102)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(645) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(645, 2, 103)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(646) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(646, 2, 104)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(647) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(647, 2, 105)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(648) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(648, 2, 106)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(649) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(649, 2, 107)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(650) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(650, 2, 108)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(654) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(654, 2, 112)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(655) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(655, 2, 113)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(656) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(656, 2, 114)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(657) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(657, 2, 115)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(658) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(658, 2, 116)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(659) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(659, 2, 117)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(660) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(660, 2, 118)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(661) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(661, 2, 119)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(662) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(662, 2, 120)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(663) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(663, 2, 121)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(664) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(664, 2, 122)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(665) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(665, 2, 123)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(2, 124) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(666, 2, 124)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_group_id_permission_id_key"
+DETAIL:  Key (group_id, permission_id)=(2, 125) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(667, 2, 125)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(668) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(668, 2, 126)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(669) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(669, 2, 127)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(670) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(670, 2, 128)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(671) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(671, 2, 129)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(672) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(672, 2, 130)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(673) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(673, 2, 131)
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "auth_group_permissions_pkey"
+DETAIL:  Key (id)=(674) already exists.
+select id, group_id, permission_id from auth_group_permissions
+(674, 2, 132)

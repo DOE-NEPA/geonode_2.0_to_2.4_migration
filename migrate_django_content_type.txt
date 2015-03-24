@@ -1,0 +1,6 @@
+
+<class 'psycopg2.IntegrityError'>
+duplicate key value violates unique constraint "django_content_type_app_label_model_key"
+DETAIL:  Key (app_label, model)=(people, profile) already exists.
+select id, name, app_label, model from django_content_type
+(31, 'profile', 'people', 'profile')
