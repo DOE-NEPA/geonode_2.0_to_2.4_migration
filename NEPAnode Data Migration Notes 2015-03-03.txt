@@ -1,5 +1,5 @@
 NEPAnode 1 (GeoNode 2.0) to NEPAnode 2 (GeoNode 2.4) Data Migration Notes
-by Don Bales on 2015-03-03
+by Don Bales on 2015-03-03, dbales@anl.gov or don@donaldbales.com
 
 First, let's uninstall the current version of geonode altogether...
 
