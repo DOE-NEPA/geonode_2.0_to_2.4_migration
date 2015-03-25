@@ -386,7 +386,7 @@ geonode createsuperuser
 
 jjediny
 Jediny, John <John.Jediny@hq.doe.gov>
-i<3NEPA
+<only john knows>
 
 root@ip-172-31-23-51:/usr/share/geoserver/data# cd ~
 root@ip-172-31-23-51:~# geonode createsuperuser
